@@ -588,7 +588,7 @@ section {
   width: 120px;
   height: 1px;
   display: inline-block;
-  background: #f38b74;
+  background: #23b14d;
   margin: 4px 10px;
 }
 
@@ -820,7 +820,7 @@ section {
 .why-us .play-btn {
   width: 94px;
   height: 94px;
-  background: radial-gradient(#00a3e8 50%, rgba(237, 80, 46, 0.4) 52%);
+  background: radial-gradient(#abadad 50%, rgba(255, 255, 255, 0.4) 52%);
   border-radius: 50%;
   display: block;
   position: absolute;
@@ -861,10 +861,10 @@ section {
   animation-timing-function: steps;
   opacity: 1;
   border-radius: 50%;
-  border: 5px solid rgba(237, 80, 46, 0.7);
+  border: #23b14d;
   top: -15%;
   left: -15%;
-  background: rgba(198, 16, 0, 0);
+  background: #23b14d;
 }
 
 .why-us .play-btn:hover::after {
@@ -983,7 +983,7 @@ section {
   top: -8px;
   height: 100%;
   width: 100%;
-  background: #f9c6bb;
+  background: #23b14d;
   border-radius: 5px;
   transition: all 0.3s ease-out 0s;
   transform: translateZ(-1px);
